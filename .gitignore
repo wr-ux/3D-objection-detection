@@ -1,0 +1,38 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Common logs (keep if you want logs tracked)
+# *.log
+# logs/
+
+# Project outputs (keep if you want results tracked)
+# Achelous-main/logs*/
+# Achelous-main/logs_seg*/
+# Achelous-main/logs_seg_line*/
+# Achelous-main/logs_seg_pc*/
+# Achelous-main/export_results/
+# Achelous-main/exp*/
+# Achelous-main/.temp_map_out*/
+
+# IDE
+.idea/
+
+# Large datasets (remove if you want to version them)
+calib/
+radar/
+WaterScenes_Medium/
+WaterScenes-mini/
+WaterScenes-Published/
+
+# Archives
+*.zip

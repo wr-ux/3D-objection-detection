@@ -1,0 +1,6 @@
+{
+  "image": "/home/waas/Project4/WaterScenes_Medium/images/29063.jpg",
+  "radar_npz": "/home/waas/Project4/WaterScenes_Medium/radar/VOCradar320/29063.npz",
+  "num_detections": 0,
+  "detections_3d": []
+}

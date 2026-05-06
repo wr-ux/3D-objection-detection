@@ -1,0 +1,2056 @@
+{
+  "image": "/home/waas/Project4/WaterScenes_Medium/images/39484.jpg",
+  "radar_npz": "/home/waas/Project4/WaterScenes_Medium/radar/VOCradar320/39484.npz",
+  "calib_txt": "/home/waas/Project4/WaterScenes_Medium/calib/39484.txt",
+  "camera_intrinsic_3x4": [
+    [
+      1065.753662109375,
+      -2.613804578781128,
+      890.1257934570312,
+      0.0
+    ],
+    [
+      -0.0,
+      1065.3612060546875,
+      492.75164794921875,
+      0.0
+    ],
+    [
+      -0.0,
+      0.0,
+      1.0,
+      0.0
+    ]
+  ],
+  "fx": 1065.753662109375,
+  "fy": 1065.3612060546875,
+  "cx": 890.1257934570312,
+  "cy": 492.75164794921875,
+  "num_detections": 88,
+  "detections_3d": [
+    {
+      "class_id": 3,
+      "class_name": "ship",
+      "score": 0.015613828785717487,
+      "box_xyxy": [
+        431.3514404296875,
+        645.8396606445312,
+        528.2960815429688,
+        743.0390014648438
+      ],
+      "pixel_center": [
+        479.5,
+        694.0
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 3,
+      "class_name": "ship",
+      "score": 0.015059242956340313,
+      "box_xyxy": [
+        431.7394104003906,
+        548.1970825195312,
+        529.2869262695312,
+        645.106201171875
+      ],
+      "pixel_center": [
+        480.0,
+        596.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 3,
+      "class_name": "ship",
+      "score": 0.014682796783745289,
+      "box_xyxy": [
+        624.3790893554688,
+        355.4164123535156,
+        720.1259155273438,
+        454.5838623046875
+      ],
+      "pixel_center": [
+        672.0,
+        404.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 3,
+      "class_name": "ship",
+      "score": 0.014513294212520123,
+      "box_xyxy": [
+        718.6654052734375,
+        258.7022399902344,
+        815.0335693359375,
+        356.9118957519531
+      ],
+      "pixel_center": [
+        766.5,
+        307.0
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 3,
+      "class_name": "ship",
+      "score": 0.014310316182672977,
+      "box_xyxy": [
+        527.6019287109375,
+        450.7713317871094,
+        623.9248046875,
+        549.6124267578125
+      ],
+      "pixel_center": [
+        575.0,
+        499.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 3,
+      "class_name": "ship",
+      "score": 0.013261456042528152,
+      "box_xyxy": [
+        431.89007568359375,
+        743.3529052734375,
+        528.634521484375,
+        840.8832397460938
+      ],
+      "pixel_center": [
+        479.5,
+        791.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 1,
+      "class_name": "buoy",
+      "score": 0.01313109416514635,
+      "box_xyxy": [
+        1002.6053466796875,
+        701.7530517578125,
+        1058.1624755859375,
+        752.1898193359375
+      ],
+      "pixel_center": [
+        1030.0,
+        726.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 3,
+      "class_name": "ship",
+      "score": 0.012670796364545822,
+      "box_xyxy": [
+        427.46600341796875,
+        452.20111083984375,
+        528.4675903320312,
+        548.8914184570312
+      ],
+      "pixel_center": [
+        477.5,
+        500.0
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 3,
+      "class_name": "ship",
+      "score": 0.012440577149391174,
+      "box_xyxy": [
+        522.0178833007812,
+        354.7066345214844,
+        622.4228515625,
+        451.8876037597656
+      ],
+      "pixel_center": [
+        572.0,
+        402.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 0,
+      "class_name": "pier",
+      "score": 0.012343073263764381,
+      "box_xyxy": [
+        428.1293029785156,
+        1710.22705078125,
+        483.0236511230469,
+        1761.1473388671875
+      ],
+      "pixel_center": [
+        455.5,
+        1735.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 0,
+      "class_name": "pier",
+      "score": 0.0121269840747118,
+      "box_xyxy": [
+        618.986083984375,
+        652.5466918945312,
+        673.266357421875,
+        705.0699462890625
+      ],
+      "pixel_center": [
+        645.5,
+        678.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 0,
+      "class_name": "pier",
+      "score": 0.011783119291067123,
+      "box_xyxy": [
+        618.8140869140625,
+        604.2924194335938,
+        672.996826171875,
+        656.2799072265625
+      ],
+      "pixel_center": [
+        645.0,
+        630.0
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 3,
+      "class_name": "ship",
+      "score": 0.011592789553105831,
+      "box_xyxy": [
+        431.93865966796875,
+        838.91845703125,
+        530.1870727539062,
+        936.0328979492188
+      ],
+      "pixel_center": [
+        480.5,
+        887.0
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 0,
+      "class_name": "pier",
+      "score": 0.011258533224463463,
+      "box_xyxy": [
+        571.6097412109375,
+        461.5865783691406,
+        626.7789306640625,
+        512.9907836914062
+      ],
+      "pixel_center": [
+        598.5,
+        486.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 1,
+      "class_name": "buoy",
+      "score": 0.01098413672298193,
+      "box_xyxy": [
+        667.2157592773438,
+        268.61492919921875,
+        722.007080078125,
+        320.0528564453125
+      ],
+      "pixel_center": [
+        694.5,
+        294.0
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 1,
+      "class_name": "buoy",
+      "score": 0.01097557507455349,
+      "box_xyxy": [
+        667.948486328125,
+        76.21395111083984,
+        721.6666259765625,
+        127.13603210449219
+      ],
+      "pixel_center": [
+        694.0,
+        101.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 0,
+      "class_name": "pier",
+      "score": 0.010677258484065533,
+      "box_xyxy": [
+        667.5260009765625,
+        220.9682159423828,
+        722.4818725585938,
+        273.2602233886719
+      ],
+      "pixel_center": [
+        694.5,
+        246.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 3,
+      "class_name": "ship",
+      "score": 0.01066016685217619,
+      "box_xyxy": [
+        531.7891845703125,
+        933.7808837890625,
+        627.314208984375,
+        1031.30126953125
+      ],
+      "pixel_center": [
+        579.0,
+        982.0
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010546372272074223,
+      "box_xyxy": [
+        867.2507934570312,
+        862.0380249023438,
+        1051.448974609375,
+        1083.54345703125
+      ],
+      "pixel_center": [
+        959.0,
+        972.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010516723617911339,
+      "box_xyxy": [
+        675.180908203125,
+        285.1617431640625,
+        858.8316040039062,
+        506.3597106933594
+      ],
+      "pixel_center": [
+        766.5,
+        395.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 3,
+      "class_name": "ship",
+      "score": 0.010455016046762466,
+      "box_xyxy": [
+        532.6140747070312,
+        742.6677856445312,
+        627.5403442382812,
+        843.4989013671875
+      ],
+      "pixel_center": [
+        579.5,
+        792.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 3,
+      "class_name": "ship",
+      "score": 0.010387138463556767,
+      "box_xyxy": [
+        617.9638061523438,
+        259.39971923828125,
+        720.219482421875,
+        356.63153076171875
+      ],
+      "pixel_center": [
+        668.5,
+        307.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010385616682469845,
+      "box_xyxy": [
+        866.883056640625,
+        477.3250732421875,
+        1051.52001953125,
+        698.9049682617188
+      ],
+      "pixel_center": [
+        958.5,
+        587.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010363277047872543,
+      "box_xyxy": [
+        674.3178100585938,
+        670.4991455078125,
+        858.7986450195312,
+        891.3212890625
+      ],
+      "pixel_center": [
+        766.0,
+        780.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010344256646931171,
+      "box_xyxy": [
+        867.1484985351562,
+        286.00958251953125,
+        1051.712646484375,
+        508.3587951660156
+      ],
+      "pixel_center": [
+        959.0,
+        397.0
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010316574946045876,
+      "box_xyxy": [
+        482.2030029296875,
+        668.3590698242188,
+        667.4697875976562,
+        892.047119140625
+      ],
+      "pixel_center": [
+        574.5,
+        780.0
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010299267247319221,
+      "box_xyxy": [
+        674.7513427734375,
+        862.1327514648438,
+        858.9107666015625,
+        1082.9412841796875
+      ],
+      "pixel_center": [
+        766.0,
+        972.0
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010284705087542534,
+      "box_xyxy": [
+        674.6985473632812,
+        477.04388427734375,
+        859.3450927734375,
+        698.2896728515625
+      ],
+      "pixel_center": [
+        766.5,
+        587.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 3,
+      "class_name": "ship",
+      "score": 0.010277314111590385,
+      "box_xyxy": [
+        814.2531127929688,
+        161.43612670898438,
+        913.7228393554688,
+        258.34930419921875
+      ],
+      "pixel_center": [
+        863.5,
+        209.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010273917578160763,
+      "box_xyxy": [
+        866.72265625,
+        669.9210815429688,
+        1051.4041748046875,
+        891.9199829101562
+      ],
+      "pixel_center": [
+        958.5,
+        780.0
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010269016958773136,
+      "box_xyxy": [
+        483.2147521972656,
+        477.2017517089844,
+        668.0919799804688,
+        699.4154663085938
+      ],
+      "pixel_center": [
+        575.5,
+        588.0
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010264874435961246,
+      "box_xyxy": [
+        675.6019287109375,
+        -98.2740478515625,
+        859.8992309570312,
+        124.2874755859375
+      ],
+      "pixel_center": [
+        767.0,
+        13.0
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.01025896705687046,
+      "box_xyxy": [
+        482.8778076171875,
+        286.7648620605469,
+        667.1643676757812,
+        508.31353759765625
+      ],
+      "pixel_center": [
+        574.5,
+        397.0
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010213566944003105,
+      "box_xyxy": [
+        482.60888671875,
+        1053.46337890625,
+        667.688720703125,
+        1276.5791015625
+      ],
+      "pixel_center": [
+        574.5,
+        1164.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 0,
+      "class_name": "pier",
+      "score": 0.010201437398791313,
+      "box_xyxy": [
+        571.7379150390625,
+        510.4801940917969,
+        627.6390991210938,
+        563.014404296875
+      ],
+      "pixel_center": [
+        599.0,
+        536.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.01020040363073349,
+      "box_xyxy": [
+        1251.7841796875,
+        861.7823486328125,
+        1435.262939453125,
+        1084.17626953125
+      ],
+      "pixel_center": [
+        1343.0,
+        972.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 3,
+      "class_name": "ship",
+      "score": 0.010186547413468361,
+      "box_xyxy": [
+        532.767822265625,
+        838.5873413085938,
+        628.0,
+        937.6378784179688
+      ],
+      "pixel_center": [
+        580.0,
+        887.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.01017822977155447,
+      "box_xyxy": [
+        1058.862060546875,
+        670.6802978515625,
+        1243.3101806640625,
+        893.7078247070312
+      ],
+      "pixel_center": [
+        1150.5,
+        781.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010168937966227531,
+      "box_xyxy": [
+        1251.558837890625,
+        671.2538452148438,
+        1434.34130859375,
+        892.7743530273438
+      ],
+      "pixel_center": [
+        1342.5,
+        781.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010168030858039856,
+      "box_xyxy": [
+        867.2115478515625,
+        1053.6634521484375,
+        1052.45654296875,
+        1276.0635986328125
+      ],
+      "pixel_center": [
+        959.5,
+        1164.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.01016611885279417,
+      "box_xyxy": [
+        482.581298828125,
+        94.18516540527344,
+        668.0845947265625,
+        317.269775390625
+      ],
+      "pixel_center": [
+        575.0,
+        205.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010161584243178368,
+      "box_xyxy": [
+        483.4840393066406,
+        860.947509765625,
+        668.4063720703125,
+        1084.27685546875
+      ],
+      "pixel_center": [
+        575.5,
+        972.0
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010159154422581196,
+      "box_xyxy": [
+        1250.6947021484375,
+        478.8009948730469,
+        1433.9322509765625,
+        700.7047119140625
+      ],
+      "pixel_center": [
+        1341.5,
+        589.0
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010154394432902336,
+      "box_xyxy": [
+        -475.5519104003906,
+        -98.11598205566406,
+        -292.4949035644531,
+        123.71115112304688
+      ],
+      "pixel_center": [
+        -383.5,
+        12.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010132817551493645,
+      "box_xyxy": [
+        483.6864929199219,
+        -98.22016143798828,
+        668.1696166992188,
+        124.96194458007812
+      ],
+      "pixel_center": [
+        575.5,
+        13.0
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010132517665624619,
+      "box_xyxy": [
+        -475.9107666015625,
+        93.59109497070312,
+        -291.8672180175781,
+        316.5395812988281
+      ],
+      "pixel_center": [
+        -383.0,
+        204.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.01013101078569889,
+      "box_xyxy": [
+        1059.015625,
+        477.7041320800781,
+        1243.42919921875,
+        700.9557495117188
+      ],
+      "pixel_center": [
+        1151.0,
+        588.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010129695758223534,
+      "box_xyxy": [
+        867.078125,
+        93.54949188232422,
+        1052.4632568359375,
+        316.17657470703125
+      ],
+      "pixel_center": [
+        959.5,
+        204.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 0,
+      "class_name": "pier",
+      "score": 0.010125428438186646,
+      "box_xyxy": [
+        667.8006591796875,
+        125.03446960449219,
+        722.4608154296875,
+        177.91510009765625
+      ],
+      "pixel_center": [
+        694.5,
+        151.0
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010125376284122467,
+      "box_xyxy": [
+        291.5072326660156,
+        861.7970581054688,
+        476.590576171875,
+        1085.2857666015625
+      ],
+      "pixel_center": [
+        383.5,
+        973.0
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010122927837073803,
+      "box_xyxy": [
+        675.63134765625,
+        1053.139404296875,
+        860.2431030273438,
+        1276.0684814453125
+      ],
+      "pixel_center": [
+        767.5,
+        1164.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010120134800672531,
+      "box_xyxy": [
+        675.516845703125,
+        92.6027603149414,
+        859.59912109375,
+        315.47625732421875
+      ],
+      "pixel_center": [
+        767.0,
+        203.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010117140598595142,
+      "box_xyxy": [
+        290.9505920410156,
+        285.6533203125,
+        476.0812072753906,
+        509.49554443359375
+      ],
+      "pixel_center": [
+        383.0,
+        397.0
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.01011631265282631,
+      "box_xyxy": [
+        -475.92071533203125,
+        1053.0341796875,
+        -291.5167541503906,
+        1276.0830078125
+      ],
+      "pixel_center": [
+        -383.0,
+        1164.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010110964067280293,
+      "box_xyxy": [
+        -475.956298828125,
+        284.88287353515625,
+        -291.7704772949219,
+        507.9185791015625
+      ],
+      "pixel_center": [
+        -383.0,
+        395.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010108435526490211,
+      "box_xyxy": [
+        1058.93505859375,
+        1052.1693115234375,
+        1244.1402587890625,
+        1275.8836669921875
+      ],
+      "pixel_center": [
+        1151.0,
+        1163.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010096444748342037,
+      "box_xyxy": [
+        -475.8794250488281,
+        476.7731628417969,
+        -291.7654724121094,
+        699.9577026367188
+      ],
+      "pixel_center": [
+        -383.0,
+        587.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.01008990965783596,
+      "box_xyxy": [
+        867.0836181640625,
+        1245.8592529296875,
+        1052.271240234375,
+        1468.523193359375
+      ],
+      "pixel_center": [
+        959.5,
+        1356.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 0,
+      "class_name": "pier",
+      "score": 0.010086378082633018,
+      "box_xyxy": [
+        618.569091796875,
+        556.4663696289062,
+        673.269287109375,
+        608.2518310546875
+      ],
+      "pixel_center": [
+        645.5,
+        582.0
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010085162706673145,
+      "box_xyxy": [
+        867.0792236328125,
+        1629.021728515625,
+        1051.8948974609375,
+        1852.328857421875
+      ],
+      "pixel_center": [
+        959.0,
+        1740.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010082779452204704,
+      "box_xyxy": [
+        867.9075927734375,
+        -99.06307220458984,
+        1053.04248046875,
+        124.12993621826172
+      ],
+      "pixel_center": [
+        960.0,
+        12.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010081975720822811,
+      "box_xyxy": [
+        1059.5924072265625,
+        861.8345947265625,
+        1244.955810546875,
+        1085.4476318359375
+      ],
+      "pixel_center": [
+        1151.5,
+        973.0
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010079951025545597,
+      "box_xyxy": [
+        -284.2073669433594,
+        1053.0760498046875,
+        -99.52098083496094,
+        1276.9810791015625
+      ],
+      "pixel_center": [
+        -191.5,
+        1164.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010077627375721931,
+      "box_xyxy": [
+        -475.80255126953125,
+        668.6309814453125,
+        -291.60980224609375,
+        891.6885375976562
+      ],
+      "pixel_center": [
+        -383.0,
+        779.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010070450603961945,
+      "box_xyxy": [
+        -476.2963562011719,
+        1244.179443359375,
+        -291.3945007324219,
+        1467.788330078125
+      ],
+      "pixel_center": [
+        -383.5,
+        1355.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010065709240734577,
+      "box_xyxy": [
+        1059.030029296875,
+        285.0636901855469,
+        1244.0931396484375,
+        508.0658264160156
+      ],
+      "pixel_center": [
+        1151.5,
+        396.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010060413740575314,
+      "box_xyxy": [
+        290.872314453125,
+        1245.3524169921875,
+        477.0481262207031,
+        1470.0118408203125
+      ],
+      "pixel_center": [
+        383.5,
+        1357.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010050143115222454,
+      "box_xyxy": [
+        482.964599609375,
+        1629.6590576171875,
+        667.904296875,
+        1852.7799072265625
+      ],
+      "pixel_center": [
+        574.5,
+        1740.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010044237598776817,
+      "box_xyxy": [
+        291.0326843261719,
+        478.6235656738281,
+        475.88568115234375,
+        701.5829467773438
+      ],
+      "pixel_center": [
+        383.0,
+        589.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010043852962553501,
+      "box_xyxy": [
+        -476.0325622558594,
+        860.9453125,
+        -291.6309509277344,
+        1083.8900146484375
+      ],
+      "pixel_center": [
+        -383.5,
+        971.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010043389163911343,
+      "box_xyxy": [
+        675.0974731445312,
+        1629.270751953125,
+        859.7600708007812,
+        1852.1590576171875
+      ],
+      "pixel_center": [
+        767.0,
+        1740.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010038143023848534,
+      "box_xyxy": [
+        1251.6190185546875,
+        1629.5595703125,
+        1435.716064453125,
+        1852.1668701171875
+      ],
+      "pixel_center": [
+        1343.0,
+        1740.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010036959312856197,
+      "box_xyxy": [
+        290.9100646972656,
+        670.0387573242188,
+        476.0447998046875,
+        893.266845703125
+      ],
+      "pixel_center": [
+        383.0,
+        781.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010033481754362583,
+      "box_xyxy": [
+        482.3906555175781,
+        1244.6776123046875,
+        668.5240478515625,
+        1469.2896728515625
+      ],
+      "pixel_center": [
+        575.0,
+        1356.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010026631876826286,
+      "box_xyxy": [
+        -284.4715881347656,
+        1245.060791015625,
+        -99.0239486694336,
+        1469.627685546875
+      ],
+      "pixel_center": [
+        -191.5,
+        1357.0
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010024023242294788,
+      "box_xyxy": [
+        867.4913330078125,
+        1436.96923828125,
+        1051.86279296875,
+        1660.2451171875
+      ],
+      "pixel_center": [
+        959.0,
+        1548.0
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010023725219070911,
+      "box_xyxy": [
+        -284.3861389160156,
+        477.4021911621094,
+        -99.18182373046875,
+        701.7048950195312
+      ],
+      "pixel_center": [
+        -191.5,
+        589.0
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010022406466305256,
+      "box_xyxy": [
+        292.31488037109375,
+        -98.79428100585938,
+        476.9022521972656,
+        125.03218841552734
+      ],
+      "pixel_center": [
+        384.0,
+        13.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010015423409640789,
+      "box_xyxy": [
+        -476.45556640625,
+        1628.943603515625,
+        -291.7363586425781,
+        1852.177490234375
+      ],
+      "pixel_center": [
+        -383.5,
+        1740.0
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010015029460191727,
+      "box_xyxy": [
+        1251.80029296875,
+        1437.6485595703125,
+        1436.238525390625,
+        1660.580810546875
+      ],
+      "pixel_center": [
+        1343.5,
+        1548.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010014601983129978,
+      "box_xyxy": [
+        -283.780517578125,
+        1438.379150390625,
+        -99.46815490722656,
+        1662.1846923828125
+      ],
+      "pixel_center": [
+        -191.0,
+        1550.0
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 1,
+      "class_name": "buoy",
+      "score": 0.01001314539462328,
+      "box_xyxy": [
+        667.1761474609375,
+        316.46697998046875,
+        722.0901489257812,
+        367.9404602050781
+      ],
+      "pixel_center": [
+        694.5,
+        341.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010010723024606705,
+      "box_xyxy": [
+        674.4967041015625,
+        1245.1851806640625,
+        860.4659423828125,
+        1469.362060546875
+      ],
+      "pixel_center": [
+        767.0,
+        1357.0
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.01000865176320076,
+      "box_xyxy": [
+        290.7772521972656,
+        1053.7786865234375,
+        476.20703125,
+        1277.73779296875
+      ],
+      "pixel_center": [
+        383.0,
+        1165.0
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010007624514400959,
+      "box_xyxy": [
+        -284.3193359375,
+        669.1004028320312,
+        -99.46929931640625,
+        893.3422241210938
+      ],
+      "pixel_center": [
+        -191.5,
+        781.0
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.01000659167766571,
+      "box_xyxy": [
+        -283.8038635253906,
+        -98.4603271484375,
+        -99.5276870727539,
+        124.91484069824219
+      ],
+      "pixel_center": [
+        -191.0,
+        13.0
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010004650801420212,
+      "box_xyxy": [
+        -284.6165466308594,
+        93.00833892822266,
+        -99.27166748046875,
+        317.7406921386719
+      ],
+      "pixel_center": [
+        -191.5,
+        205.0
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 2,
+      "class_name": "sailor",
+      "score": 0.010000740177929401,
+      "box_xyxy": [
+        99.03986358642578,
+        861.1171875,
+        284.2615661621094,
+        1084.6363525390625
+      ],
+      "pixel_center": [
+        191.5,
+        972.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    }
+  ]
+}

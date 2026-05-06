@@ -1,0 +1,237 @@
+{
+  "image": "/home/waas/Project4/WaterScenes_Medium/images/39484.jpg",
+  "radar_npz": "/home/waas/Project4/WaterScenes_Medium/radar/VOCradar320/39484.npz",
+  "num_detections": 10,
+  "detections_3d": [
+    {
+      "class_id": 4,
+      "class_name": "boat",
+      "score": 0.09393561631441116,
+      "box_xyxy": [
+        86.81922912597656,
+        -102.14067840576172,
+        273.7236633300781,
+        123.26371002197266
+      ],
+      "pixel_center": [
+        179.5,
+        10.5
+      ],
+      "depth_z": 12.496100425720215,
+      "xyz": [
+        -9.753206253051758,
+        -6.616685390472412,
+        12.496100425720215
+      ],
+      "est_width_m": 2.3367707796096804,
+      "est_height_m": 2.8116225957870484
+    },
+    {
+      "class_id": 4,
+      "class_name": "boat",
+      "score": 0.09380050003528595,
+      "box_xyxy": [
+        280.9897766113281,
+        283.37359619140625,
+        467.1062927246094,
+        505.9890441894531
+      ],
+      "pixel_center": [
+        373.5,
+        394.0
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 4,
+      "class_name": "boat",
+      "score": 0.08989188075065613,
+      "box_xyxy": [
+        282.91546630859375,
+        1435.6058349609375,
+        471.47027587890625,
+        1661.4473876953125
+      ],
+      "pixel_center": [
+        376.5,
+        1548.0
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 4,
+      "class_name": "boat",
+      "score": 0.08611924201250076,
+      "box_xyxy": [
+        -483.7981872558594,
+        1626.955078125,
+        -300.0249938964844,
+        1855.3587646484375
+      ],
+      "pixel_center": [
+        -391.5,
+        1740.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 4,
+      "class_name": "boat",
+      "score": 0.07498844712972641,
+      "box_xyxy": [
+        284.0475158691406,
+        470.63311767578125,
+        478.3097229003906,
+        703.2509765625
+      ],
+      "pixel_center": [
+        381.0,
+        586.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 4,
+      "class_name": "boat",
+      "score": 0.06845856457948685,
+      "box_xyxy": [
+        287.9540710449219,
+        1630.7430419921875,
+        469.7372741699219,
+        1861.81591796875
+      ],
+      "pixel_center": [
+        378.0,
+        1745.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 4,
+      "class_name": "boat",
+      "score": 0.0647575631737709,
+      "box_xyxy": [
+        93.86266326904297,
+        1624.9454345703125,
+        289.2657165527344,
+        1852.3841552734375
+      ],
+      "pixel_center": [
+        191.0,
+        1738.0
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 4,
+      "class_name": "boat",
+      "score": 0.05738186836242676,
+      "box_xyxy": [
+        289.4250793457031,
+        1237.13623046875,
+        485.8905029296875,
+        1473.411376953125
+      ],
+      "pixel_center": [
+        387.0,
+        1355.0
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 4,
+      "class_name": "boat",
+      "score": 0.05550360307097435,
+      "box_xyxy": [
+        -286.0082702636719,
+        1624.828857421875,
+        -91.20451354980469,
+        1859.4844970703125
+      ],
+      "pixel_center": [
+        -188.5,
+        1741.5
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    },
+    {
+      "class_id": 4,
+      "class_name": "boat",
+      "score": 0.053750719875097275,
+      "box_xyxy": [
+        289.9261779785156,
+        660.4159545898438,
+        487.9291076660156,
+        898.005126953125
+      ],
+      "pixel_center": [
+        388.0,
+        779.0
+      ],
+      "depth_z": NaN,
+      "xyz": [
+        NaN,
+        NaN,
+        NaN
+      ],
+      "est_width_m": NaN,
+      "est_height_m": NaN
+    }
+  ]
+}

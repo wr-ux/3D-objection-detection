@@ -1,0 +1,44 @@
+WaterScenes-Published 目录完整清单
+生成时间: 2026-04-19 15:26:57
+目录数: 1
+文件数: 17
+
+总计 15G
+drwxr-xr-x 2 root root   17  4月 19 15:11 .
+drwxr-xr-x 4 root root    4  4月 19 15:26 ..
+-rw-r--r-- 1 root root  21M  4月 19 14:56 calib.zip
+-rw-r--r-- 1 root root  41M  4月 19 14:56 detection.zip
+-rw-r--r-- 1 root root 115M  4月 19 14:56 free_space.zip
+-rw-r--r-- 1 root root  18M  4月 19 14:56 gps.zip
+-rw-r--r-- 1 root root  11G  4月 19 15:10 image.zip
+-rw-r--r-- 1 root root  20M  4月 19 14:56 imu.zip
+-rw-r--r-- 1 root root 2.3M  4月 19 14:56 information_list.csv
+-rw-r--r-- 1 root root  47M  4月 19 14:56 instance_20250412_010906.zip
+-rw-r--r-- 1 root root 160M  4月 19 14:56 instance.zip
+-rw-r--r-- 1 root root 1.3G  4月 19 15:00 radar_3_frames.zip
+-rw-r--r-- 1 root root 2.0G  4月 19 15:01 radar_5_frames.zip
+-rw-r--r-- 1 root root 545M  4月 19 14:58 radar.zip
+-rw-r--r-- 1 root root 160M  4月 19 14:57 semantic.zip
+-rw-r--r-- 1 root root 101K  4月 19 14:57 test.txt
+-rw-r--r-- 1 root root 703K  4月 19 14:57 train.txt
+-rw-r--r-- 1 root root 201K  4月 19 14:57 val.txt
+-rw-r--r-- 1 root root  64M  4月 19 14:58 waterline.zip
+
+WaterScenes-Published
+WaterScenes-Published/calib.zip
+WaterScenes-Published/detection.zip
+WaterScenes-Published/free_space.zip
+WaterScenes-Published/gps.zip
+WaterScenes-Published/image.zip
+WaterScenes-Published/imu.zip
+WaterScenes-Published/information_list.csv
+WaterScenes-Published/instance_20250412_010906.zip
+WaterScenes-Published/instance.zip
+WaterScenes-Published/radar_3_frames.zip
+WaterScenes-Published/radar_5_frames.zip
+WaterScenes-Published/radar.zip
+WaterScenes-Published/semantic.zip
+WaterScenes-Published/test.txt
+WaterScenes-Published/train.txt
+WaterScenes-Published/val.txt
+WaterScenes-Published/waterline.zip
